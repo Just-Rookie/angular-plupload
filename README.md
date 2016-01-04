@@ -1,2 +1,2 @@
 # angular-plupload
-An angular directive wrapper for the cross browser upload script plupload.
+An angular directive wrapper for the cross browser upload script plupload..
